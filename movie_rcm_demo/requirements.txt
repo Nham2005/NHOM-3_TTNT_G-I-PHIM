@@ -1,6 +1,6 @@
-svd_model.pkl
-tfidf_matrix.pkl
-movies_nlp.pkl
-ratings_train.pkl
-movie_id_to_index.pkl
-best_alpha.pkl
+streamlit
+pandas
+numpy
+scikit-learn
+scipy
+scikit-surprise
